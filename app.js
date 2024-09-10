@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Prof. Wiliam!
+      Hello from Prof. Igor!
     </section>
   </body>
 </html>
